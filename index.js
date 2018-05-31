@@ -13,10 +13,10 @@ function logWhisper(string) {
   return
 }
 function sayHiToGrandma(string){
+  var grandMaResponse = `Eh?`;
   if (string === `I love you, Grandma.`) {
-    return `I loxve you, too.`;
+    return `I love you, too.`;
   }
   return;
-//  var grandMaResponse = `Eh?`;
 
 }
